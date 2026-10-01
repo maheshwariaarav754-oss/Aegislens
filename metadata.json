@@ -1,0 +1,6 @@
+{
+  "name": "TCVIAF - Defense AI Trust Infrastructure",
+  "description": "India's First AI Trust Infrastructure for Computer Vision — Cryptographic integrity, backdoor detection, and zero cloud air-gapped forensic verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
